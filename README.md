@@ -1,2 +1,4 @@
 # GLEDIATOR-NodeMCU
-NodeMCU GLEDIATOR Sketch for Arduino IDE
+
+NodeMCU GLEDIATOR Sketch for Arduino IDE<br>
+[only Serial Protokol!]
